@@ -45,9 +45,6 @@ Here are some ideas to get you started:
             <a href="mailto:">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
             </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev"/>
-            </a>
             <a href="https://www.linkedin.com/in//">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
             </a>
