@@ -49,10 +49,10 @@ Here are some ideas to get you started:
     <summary> Contact </summary>
     <br>
         <p align="center">
-            <a href="mailto:">
+            <a href="mailto:andreluizgsantos01@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
             </a>
-            <a href="https://www.linkedin.com/in//">
+            <a href="https://www.linkedin.com/in/andr%C3%A9-luiz-0ba631213">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
             </a>
         </p>
