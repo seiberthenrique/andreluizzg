@@ -17,14 +17,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 <details>
     <summary> Languages and Tools </summary>
     <br>
         <p align="center">
             <a href="https://www.python.org/">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40" />
+            </a>
+            <a href="https://numpy.org/">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" height="40" width="40" />
+            </a>
+            <a href="https://www.latex-project.org/">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTex" height="40" width="40" />
             </a>
         </p>
     <br>
@@ -35,11 +39,12 @@ Here are some ideas to get you started:
     <br>
         <p align="center">
             <a href="https://github.com/andreluizzg">
-                <img alt="andreluizzg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andreluizzg&theme=github_dark&show_icons=true&line_height=27&count_private=true" height="180em" />
+                <img alt="andreluizzg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andreluizzg&show_icons=true" height="180em" />
             </a>
         </p>
     <br>
 </details>
+
 <details>
     <summary> Contact </summary>
     <br>
